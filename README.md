@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Practical Agentic AI*](https://www.link.springer.com/book/10.1007/979-8-8688-2909-3) by Kerem  Tomak (Apress, 2026).
+This repository accompanies [*Practical Agentic AI*](https://link.springer.com/book/9798868829086) by Kerem  Tomak (Apress, 2026).
 
 [comment]: #cover
 ![Cover image](979-8-8688-2908-6.jpg)
